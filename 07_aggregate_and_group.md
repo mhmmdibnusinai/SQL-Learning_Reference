@@ -2,7 +2,7 @@
 
 # III.1. Aggregating and Grouping Data
 
-**dwSQL: Querying Product and Sales Data**       
+**SQL: Querying Product and Sales Data**       
 **Iowa Liquor Product Sales**         
 
 ---------------
@@ -59,5 +59,3 @@ This analysis shows that Polk and Linn counties have the highest transaction vol
        LIMIT 10;
 
 Rank the vendors a second time by the average bottle price they offer for resale and observe any significant changes in the order of the list.
-
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=08_aggregate_and_group_2.md)
