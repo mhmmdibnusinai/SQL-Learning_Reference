@@ -7,5 +7,4 @@
 
 Next, we'll learn how to combine datasets using the `JOIN` command.
 
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=10_join.md)
 
