@@ -1,4 +1,4 @@
-# III.2. dwSQL Working with Dates: Diving Deeper
+# III.2. SQL Working with Dates: Diving Deeper
 
 Here is an example of putting the functions together for more complete analysis:
 
@@ -15,5 +15,3 @@ AS accts_long_close,
 FROM sales_pipeline 
 WHERE DATE_ADD(created_on, 55, "day") < close_date AND close_date IS NOT NULL;
 ```
-
-# [continue](https://data.world/classrooms/guide-to-data-analysis-with-sql-part-2/workspace/file?filename=09-DATETIME-SUMMARY.md)
