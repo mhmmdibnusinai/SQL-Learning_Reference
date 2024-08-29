@@ -49,4 +49,4 @@ Your query confirms that the number recorded as total_visitors is indeed the sum
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_9D70CE64993CA107336D82D79DBE5A168C30D894EE07BF8C411D1E86BD767105_1515386046170_file.png)
 
 
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=02_select_data_2.md)
+
