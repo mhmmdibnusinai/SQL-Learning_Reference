@@ -1,4 +1,3 @@
-![know-it-all.png](https://view.dwcontent.com/file_view/bgadoci/data-world-marketing-assets/know-it-all.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50Om5yaXBwbmVyIiwiaXNzIjoiYWdlbnQ6bnJpcHBuZXI6OjQ0NTA1YTI5LTQ3OTQtNGEzMS1iMjk2LTk5YzNjOTc5MzgwMCIsImlhdCI6MTUxNjk4NTg2OSwicm9sZSI6WyJ1c2VyIiwiZW1wbG95ZWUiLCJ1c2VyX2FwaV9yZWFkIiwidXNlcl9hcGlfd3JpdGUiLCJ1c2VyX2FwaV9hZG1pbiJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiI2NTUyMTZmMjg0MGU4NTkzZjU0NjMxZDYyODNkYzAzYWNhZmRhMWZhIn0.Mu-p4Ae6JlLQLd1jg_Pum45W34g33xNZAjCe9-FvIV1qMp28oEwt-4DmLotquXpdDYhDxCvts_Hv10EbjVNSaA)
 # III.1. Datetime Data       
 **dwSQL: Functions for Dates (`DATE_DIFF`, `DATE_ADD`, `FILTER`)**          
 **CRM (Customer Relationship Management)**        
@@ -77,5 +76,3 @@ ORDER BY deal_stage, cycle_days DESC;
 ```
 
 For the team to become aware of the reasons why a portion of the completed campaigns took significantly longer than average will prove valuable for improving efficiencies and avoiding lost sales with significant investment of sales time and effort.
-
-# [continue](https://data.world/classrooms/guide-to-data-analysis-with-sql-part-2/workspace/file?filename=08-DATETIME-DIVING-DEEPER.md)
