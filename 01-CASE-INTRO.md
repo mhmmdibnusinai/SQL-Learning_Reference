@@ -1,6 +1,3 @@
-![data-digest-banner.png](https://view.dwcontent.com/file_view/bgadoci/data-world-marketing-assets/data-digest-banner.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50Om5yaXBwbmVyIiwiaXNzIjoiYWdlbnQ6bnJpcHBuZXI6OjQ0NTA1YTI5LTQ3OTQtNGEzMS1iMjk2LTk5YzNjOTc5MzgwMCIsImlhdCI6MTUxNjk4NTg2OSwicm9sZSI6WyJ1c2VyIiwiZW1wbG95ZWUiLCJ1c2VyX2FwaV9yZWFkIiwidXNlcl9hcGlfd3JpdGUiLCJ1c2VyX2FwaV9hZG1pbiJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiI3YjIyM2EzYTQ3ZjRlMDZkZTYzMTVhNjczOWZkYmM1NDI4Njk1Zjg2In0.1sgTaw0DjYea_Hw4FmBKKMfseeZPwhNXDRWUozgtOadiggak01TPINZsHyvB7FYVeZuaAhmMMES2ho0dgncldg)
-
-
 # I.1. Conditional Operations Using `CASE`        
 
 **dwSQL: `CASE` - Creating New Information**        
@@ -86,6 +83,3 @@ ORDER BY Rev_Per_Sale DESC;
 ```
 
 Based on this analysis, there are 13 sales agents that have exceeded the incentive targets for the last year and therefore qualify for the bonus incentive award. Fortunately, all but two members of the sales organization exceeded the baseline “on target” profitability goals.
-
-
-# [continue](https://data.world/classrooms/guide-to-data-analysis-with-sql-part-2/workspace/file?filename=02-CASE-DIVING-DEEPER.md)
