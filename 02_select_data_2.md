@@ -21,5 +21,3 @@ Here are two ways to take your query to the next level.
       ORDER BY bigbend_annual_park_recreation_visitation_1904_2015.year DESC;
 
 These results will contain 21 rows, beginning with the largest attendance value of 398,583 that occurred in 2005. We will look at expanding the use of filtering commands in the next lesson.
-
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=03_select_data_summar.md)
