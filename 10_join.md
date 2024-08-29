@@ -2,7 +2,7 @@
 
 # IV.1. Queries which Combine Tables
 
-**dwSQL: Combining Data from Multiple Tables of Iowa Liquor Product Sales**
+**SQL: Combining Data from Multiple Tables of Iowa Liquor Product Sales**
 
 -------------
 
@@ -68,5 +68,3 @@ _Based on this analysis, it is interesting to observe that Dickinson, a smaller 
 _Based on this analysis, Johnson county may represent an opportunity in terms of the combined factors that would begin the conversation of demand analysis and sufficient population for sustainability. Further analysis would be merited, based on the investor’s risk profile and interests._
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_11A3C926B66539979AA819795B9AE12298B748340FB3979DD3408D5E6794E6C3_1515399492098_file.png)
-
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=11_join_2.md)
