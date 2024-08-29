@@ -2,7 +2,7 @@
 
 # II.1. Filtering and Grouping Data
 
-**dwSQL: Filtering and Grouping Data**           
+**SQL: Filtering and Grouping Data**           
 **Population and Ownership of Dogs and Cats in America**
 
 ------------
@@ -65,5 +65,3 @@ Based on this analysis, you can say that Arkansas, New Mexico and Oklahoma have 
        ORDER BY states.cat_population DESC;
 
 This analysis would direct the marketing effort at Texas, Ohio, Indiana and Tennessee. (Challenge Question: What state dropped off the list by using 2.2 as the lower limit?)    
-
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=05_filter_and_group_2.md)
