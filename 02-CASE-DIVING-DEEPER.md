@@ -1,4 +1,4 @@
-# I.2. dwSQL Using `CASE`: Diving Deeper
+# I.2. SQL Using `CASE`: Diving Deeper
 
 Here is another way to take your query skills to the next level:
 
@@ -22,5 +22,3 @@ FROM
 GROUP BY Achievement_Grouping
 ORDER BY Achievement_Grouping;
 ```
-
-# [continue](https://data.world/classrooms/guide-to-data-analysis-with-sql-part-2/workspace/file?filename=03-CASE-SUMMARY.md)
