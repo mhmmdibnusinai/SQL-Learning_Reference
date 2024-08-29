@@ -30,5 +30,3 @@ This analysis shows that the Polk, Linn and Scott counties offer the greatest ma
        ORDER BY total_sold desc;
 
 From this, you observe that the product sales base in the top three counties is much broader than the top products. For example, in Polk county, while the top two products consist of 28k sales, there are 534k other product sales transactions. Well done, you’re making progress toward identifying the characteristics of what is performing well in Iowa’s liquor marketplace.
-
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=09_aggregate_and_group_summary.md)
