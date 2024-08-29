@@ -5,6 +5,4 @@
 - Compound conditions can be joined by `AND` in queries.
 - `HAVING` further filters aggregated data, in addition to filtering applied to raw data by the WHERE clause.
 
-Next, we'll learn how to combine datasets using the `JOIN` command.
-
 
