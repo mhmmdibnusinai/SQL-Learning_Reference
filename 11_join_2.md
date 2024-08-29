@@ -36,5 +36,3 @@ Finally, you’ve discovered that new stores, soon to open, are already listed i
        ORDER BY zip_code;
   
 _From this query, you observe that there are presently 104 stores being prepared for new openings. This query report provides valuable information for the investment team’s deliberation as they seek to understand the soon coming competition in the territory._
-
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=12_join_summary.md)
