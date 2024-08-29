@@ -20,4 +20,4 @@ Here are two ways to take your query to the next level.
       WHERE bigbend_annual_park_recreation_visitation_1904_2015.visitor_count >= 300000
       ORDER BY bigbend_annual_park_recreation_visitation_1904_2015.year DESC;
 
-These results will contain 21 rows, beginning with the largest attendance value of 398,583 that occurred in 2005. We will look at expanding the use of filtering commands in the next lesson.
+These results will contain 21 rows, beginning with the largest attendance value of 398,583 that occurred in 2005. 
