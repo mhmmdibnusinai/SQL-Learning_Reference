@@ -1,4 +1,4 @@
-# II.2. dwSQL `JOIN`s: Diving Deeper
+# II.2. SQL `JOIN`s: Diving Deeper
 
 **Consider the following to take your query skills to the next level:**
 
@@ -24,5 +24,3 @@ GROUP BY sales_teams.sales_agent
 ORDER BY closed_sales DESC;
 ```
 With this, senior management is pleased to observe that this team of sales agents have successfully converted more opportunities to completed sales than losses, as reflected by the calculated ratio.
-
-# [continue](https://data.world/classrooms/guide-to-data-analysis-with-sql-part-2/workspace/file?filename=06-JOIN-SUMMARY.md)
