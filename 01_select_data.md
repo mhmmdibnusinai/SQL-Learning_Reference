@@ -2,7 +2,7 @@
 
 # I. Selecting Data
 
-**dwSQL: Selecting Data**      
+**SQL: Selecting Data**      
 
 **Exploring Big Bend National Park**
 
