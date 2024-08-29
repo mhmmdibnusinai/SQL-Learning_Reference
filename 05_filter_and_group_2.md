@@ -32,4 +32,4 @@ These results place the **Western Region** at the top of the list, showing that 
 
 You’re now prepared to speak to the marketing team about options that the data suggests. From here, the team will need additional data sources for analysis of distribution costs for the top regions, cost of acquisition data, and per capita average pet expenditures to broaden the view.
 
-# [**Continue**](https://data.world/classrooms/guide-to-data-analysis-with-sql-and-datadotworld/workspace/file?filename=06_filter_and_group_summary.md)
+
