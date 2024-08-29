@@ -1,6 +1,6 @@
 # I.1. Conditional Operations Using `CASE`        
 
-**dwSQL: `CASE` - Creating New Information**        
+**SQL: `CASE` - Creating New Information**        
 **CRM (Customer Relationship Management)**        
   
 --------------
