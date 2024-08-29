@@ -44,5 +44,3 @@ ORDER BY 4;
 ```
 
 The results reveal very low demand for the highest priced items. In the all of **Linn** county, only nine bottles of this price bracket were sold in the year of 2016. The team will look closely at the carrying cost and profit margins for these items. While potentially profitable because of the high revenue contribution, the team will need to negotiate with vendors to make sure the low level of demand does mean unmerited inventory carrying cost.
-
-# [continue](https://data.world/classrooms/guide-to-data-analysis-with-sql-part-2/workspace/file?filename=12-SUBQUERIES-SUMMARY.md)
